@@ -1,0 +1,17 @@
+ul{
+    list-style:none;
+}
+.contacts{
+    border:1px solid black;
+    background-color:antiquewhite;
+}
+.active{
+    display:block;
+}
+.hidden{
+    display:none;
+}
+li{
+    background-color:#bbb;
+    border: 1px dashed black;
+}
